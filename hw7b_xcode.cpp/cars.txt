@@ -1,0 +1,4 @@
+﻿Ford Mustang 2004 20000.00 163000 
+Chevrolet Camaro 2004 20000.00 185000 
+Honda Accord 2008 22000.00 75000 
+Toyota Camry 2011 24000.00 50000
